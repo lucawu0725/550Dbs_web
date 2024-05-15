@@ -1,0 +1,10 @@
+{
+    "rds_host": "database-5500-project.cdqumeime0qb.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "project_team_24",
+    "rds_password": "5500team24",
+    "rds_db": "project24",
+    "server_host": "localhost",
+    "server_port": "8080",
+    "$schema": "http://json-schema.org/draft-04/schema#"
+  }

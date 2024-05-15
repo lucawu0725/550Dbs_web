@@ -1,0 +1,33 @@
+/* #inputLon {
+    color: white;
+    min-width: 120px;
+    margin-top: 10px;
+}
+
+#inputLat {
+    color: white;
+    min-width: 120px;
+    margin-top: 10px;
+} */
+
+.formControl {
+    min-width: 120px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+#type{
+    color:white;
+    min-width: 100px;
+    
+}
+
+#rating {
+    color: white;
+    min-width: 100px;
+}
+
+#latitude {
+    color: white;
+    /* top: 5%; */
+}

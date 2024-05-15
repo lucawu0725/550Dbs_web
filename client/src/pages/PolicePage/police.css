@@ -1,0 +1,13 @@
+h1 {
+    color: darkblue;
+}
+form {
+    margin-bottom: 20px;
+}
+label {
+    margin-right: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
